@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+lightning_logs/version_1/checkpoints/epoch=4-step=4690.ckpt
+lightning_logs/version_1/metrics.csv
+lightning_logs/version_2/checkpoints/epoch=4-step=4690.ckpt
+lightning_logs/version_2/metrics.csv
+lightning_logs/version_3/checkpoints/epoch=4-step=4690.ckpt
+lightning_logs/version_3/metrics.csv
